@@ -1,0 +1,14 @@
+AWS Access Key ID: AKIAEXAMPLEEXAMPLEEXAMPLEEXAMPLEEXAMPLEEXAMPLE
+AWS Secret Access Key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+GitHub Personal Access Token: ghp_exampleexampleexampleexample
+Slack API Token: xoxb-123456789012-123456789012-123456789012-ABCDEFGHIJKLMNOpqrstuvwxyz
+Stripe API Key: 
+Google API Key: AIzaSyD4j-EXAMPLE-abcdefghi1234567890abcd
+Google OAuth Client Secret: hktpD4j-klmn_opqrsTuvwxyzEXAMPLE
+Twilio API Key: 
+Private SSH Key:
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAB2bGFsZXhvdHRleHQKEXAMPLE
+-----END OPENSSH PRIVATE KEY-----
+Heroku API Key: 1a2b3c4d-5e6f7g8h9i-j0k1l2m3n4o5p6q7rEXAMPLE
+SendGrid API Key: 
